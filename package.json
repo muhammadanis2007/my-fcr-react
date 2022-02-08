@@ -24,6 +24,10 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadanis2007/my-fcr-react.git"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
